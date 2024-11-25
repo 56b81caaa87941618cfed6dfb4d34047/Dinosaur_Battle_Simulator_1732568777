@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "DinoClash",
+        "HERO_HEADING_TEXT": "Unleash Prehistoric Fury!",
+        "HERO_SUBHEADING_TEXT": "Battle mighty dinosaurs in epic showdowns across ancient landscapes. Evolve your prehistoric warriors and become the ultimate Jurassic champion!",
+        "FOOTER_TEXT": "\u00a9 2023 DinoClash. All rights reserved. Roar responsibly."
+    }
+}
