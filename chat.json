@@ -77,5 +77,20 @@
         "metadata": {
             "component_id": "Hero1732568780"
         }
+    },
+    {
+        "id": "0de24130-ea2e-4b0d-be8f-8d8d28087aee",
+        "timestamp": "2024-12-02T21:31:19.662921Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_xRW3fVM2xSKmDOFSTfzr9Wbh",
+            "function": {
+                "arguments": "{\"component_id\": \"Hero1732568780\", \"image_gen_prompt\": \"hadoken background\", \"placement_instructions\": \"set as the background image for the Hero component\", \"acknowledgement_message\": \"Changing the background to be of a hadoken...\"}",
+                "name": "GenerateImageAndPlaceInComponent"
+            },
+            "type": "function"
+        }
     }
 ]
