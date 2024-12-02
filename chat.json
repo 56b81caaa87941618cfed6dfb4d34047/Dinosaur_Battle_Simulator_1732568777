@@ -253,5 +253,15 @@
         "source": "base_assistant",
         "content": "The background has been changed to an image of a rock. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "9f27741d-f598-4c67-895d-053aaf3df650",
+        "timestamp": "2024-12-02T22:11:23.611682Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change the image to be of garbage",
+        "metadata": {
+            "component_id": "Footer1732568780"
+        }
     }
 ]
