@@ -151,5 +151,15 @@
         "source": "base_assistant",
         "content": "The background has been changed to a hadoken, and a dinosaur picture has been added to the component. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "52f3d2c0-4304-4d69-b54f-c8ceb57b392b",
+        "timestamp": "2024-12-02T22:07:29.062638Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Change this background to be an image of a dinosaur",
+        "metadata": {
+            "component_id": "Footer1732568780"
+        }
     }
 ]
