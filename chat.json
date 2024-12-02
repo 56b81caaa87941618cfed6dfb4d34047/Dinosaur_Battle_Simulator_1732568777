@@ -6,5 +6,15 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "feb25f1b-1f1c-4586-9560-d41a0be0aab6",
+        "timestamp": "2024-12-02T21:25:51.194948Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Change the background to be of a hadoken",
+        "metadata": {
+            "component_id": "Hero1732568780"
+        }
     }
 ]
