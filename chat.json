@@ -202,5 +202,15 @@
         "source": "base_assistant",
         "content": "The background has been changed to an image of a dinosaur. What else would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "6a8de39c-edee-41b0-8a98-8feb1d375fbc",
+        "timestamp": "2024-12-02T22:10:29.438936Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Change the image to a rock",
+        "metadata": {
+            "component_id": "Footer1732568780"
+        }
     }
 ]
