@@ -16,5 +16,15 @@
         "metadata": {
             "component_id": "Hero1732568780"
         }
+    },
+    {
+        "id": "83e21a4c-4b8b-483b-82c8-7115a6b8d349",
+        "timestamp": "2024-12-02T21:28:06.406872Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Change the background to be of a hadoken",
+        "metadata": {
+            "component_id": "Hero1732568780"
+        }
     }
 ]
