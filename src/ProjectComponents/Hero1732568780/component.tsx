@@ -3,7 +3,7 @@ import React from 'react';
 const Hero: React.FC = () => {
   
   return (
-    <div className="bg-black py-16 text-white w-full h-full bg-cover bg-center" style={{backgroundImage: `url('https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Dinosaur_Battle_Simulator_1732568777/${window.MI_PROJECT_GIT_REF || 'main'}/src/assets/images/72c5d14911d04255aa72e6d37e9e4f40.jpeg')`}}>
+    <div className="bg-black py-16 text-white w-full h-full bg-cover bg-center" style={{backgroundImage: `url('https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Dinosaur_Battle_Simulator_1732568777/${window.MI_PROJECT_GIT_REF || 'main'}/src/assets/images/0563e1f314514d99849dc2d3b7585b61.jpeg')`}}>
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center h-full">
         <div className="md:w-1/2 mb-8 md:mb-0">
           <h1 className="text-4xl font-bold mb-4">asdf Unleash Prehistoric Fury!</h1>
