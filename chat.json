@@ -304,5 +304,15 @@
         "source": "base_assistant",
         "content": "The background has been changed to an image of garbage. How would you like to proceed?",
         "metadata": {}
+    },
+    {
+        "id": "28dfb09a-f99b-4ce2-a091-53719b5f54c2",
+        "timestamp": "2024-12-02T22:12:31.486850Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change the image to be of an orange",
+        "metadata": {
+            "component_id": "Footer1732568780"
+        }
     }
 ]
