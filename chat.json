@@ -398,5 +398,13 @@
         "metadata": {
             "tool_call_id": "call_yxrolzborVmJ2HVrUc71aFmF"
         }
+    },
+    {
+        "id": "fcb74e0a-56f1-4c70-af24-3c6c87109a4a",
+        "timestamp": "2024-12-02T22:24:12.239859Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "An image of an apple has been added to the component. What would you like to do next?",
+        "metadata": {}
     }
 ]
